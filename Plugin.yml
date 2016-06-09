@@ -1,5 +1,5 @@
 Name: Aroww_TP
 Author: xd_plugins_xd
-main:
+main: src/Aroww_TP
 version: 1.0
 api: [2.0.0]
